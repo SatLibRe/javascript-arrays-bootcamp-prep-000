@@ -28,4 +28,6 @@ function destructivelyRemoveElementFromBeginningOfArray(chocolateBars,candyStrin
   return chocolateBars
 }
 
-function 
+function removeElementFromBeginningOfArray(chocolateBars,candyString){
+  
+} 

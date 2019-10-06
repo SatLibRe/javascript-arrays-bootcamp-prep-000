@@ -32,4 +32,4 @@ function removeElementFromBeginningOfArray(chocolateBars,candyString){
  return chocolateBars.slice(1)
 } 
 
-function 
+function destructivelyRemoveElementFromEndOfArray(array)
